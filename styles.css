@@ -1,0 +1,51 @@
+*{
+    background-color:orchid;
+    letter-spacing: 2px;
+    margin-left: 30px;
+    font-family:'Courier New', Courier, monospace;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: purple;
+    font-weight: bolder;
+}
+h2{
+    font-size: 30px;
+    color: blueviolet;
+    font-weight: bold;
+}
+li{
+    color: white;
+    font-size: 18px;
+    font-style: italic;
+    margin-left: 50px;
+    font-weight: lighter;
+}
+p{
+    color: white;
+    font-size: 20px;
+    font-weight: lighter;
+    padding: 2px;
+}
+#contact{
+    background-color:coral;
+    margin-left: 50px;
+    font-style: italic;
+    display:inline-block;
+}
+textarea{
+    width: 300px;
+    height: 200px;
+    border: 3px solid burlywood;
+    color: white;
+    padding: 20px;
+    font-size: 17px;
+}
+button{
+    border: 2px solid burlywood;
+    border-radius: 3px;
+    margin:35px ;
+    padding: 6px;
+    color: white;
+}
